@@ -5,4 +5,4 @@ Script to check for new processes
 Samuel Pua
 
 ## Usage
-process-check.py <seconds>
+`process-check.py <seconds>`
